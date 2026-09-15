@@ -1,0 +1,7 @@
+{
+  "name": "DineFlow POS",
+  "description": "Comprehensive restaurant POS and business management solution for dine-in, takeaway, delivery, inventory, analytics, and CRM.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
